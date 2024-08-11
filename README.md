@@ -2,7 +2,7 @@
 Model for EV powertrain created during workshop, results compared with workshop standards
 ## Overview
 
-This project simulates the behavior of an EV under specific conditions, as shown in the tutorial. The results show extreme scenarios where 20-30% of the battery is consumed over a short distance.
+This project simulates the behavior of an EV under specific conditions, as built in the workshop. The results show extreme scenarios where 20-30% of the battery is consumed over a short distance.
 
 ## Files
 
