@@ -32,10 +32,10 @@ This repository contains a MATLAB Simulink model replicating the Tata Nexon EV's
    -Click "Run" to simulate the model.
 
 
-##Simulation Results
+## Simulation Results
 
  - NEDC (1180 sec): 3.066 km with 83.46% SoC remaining.
  - WLTP Class 3 (1800 sec): 6.4 km with 72.6% SoC remaining.
 
-##Acknowledgments
+## Acknowledgments
   -This model was developed during a workshop focused on EV simulation techniques using MATLAB Simulink.
