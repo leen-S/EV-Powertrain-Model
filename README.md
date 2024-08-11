@@ -25,8 +25,8 @@ This repository contains a MATLAB Simulink model replicating the Tata Nexon EV's
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/EV_Model_Replication.git
-   cd EV_Model_Replication
+   git clone https://github.com/leen-S/EV-Powertrain-Model.git
+   cd EV-Powertrain-Model
 2. Open and Run in Simulink:
    -Open ev.slx in Simulink.
    -Click "Run" to simulate the model.
